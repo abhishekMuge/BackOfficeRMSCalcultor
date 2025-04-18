@@ -1,0 +1,14 @@
+G:\dotnet\Project\RMS Calculator\RMSCalculator\bin\Debug\net8.0\RMSCalculator.exe
+G:\dotnet\Project\RMS Calculator\RMSCalculator\bin\Debug\net8.0\RMSCalculator.deps.json
+G:\dotnet\Project\RMS Calculator\RMSCalculator\bin\Debug\net8.0\RMSCalculator.runtimeconfig.json
+G:\dotnet\Project\RMS Calculator\RMSCalculator\bin\Debug\net8.0\RMSCalculator.dll
+G:\dotnet\Project\RMS Calculator\RMSCalculator\bin\Debug\net8.0\RMSCalculator.pdb
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.AssemblyInfoInputs.cache
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.AssemblyInfo.cs
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.csproj.CoreCompileInputs.cache
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.dll
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\refint\RMSCalculator.dll
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.pdb
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\RMSCalculator.genruntimeconfig.cache
+G:\dotnet\Project\RMS Calculator\RMSCalculator\obj\Debug\net8.0\ref\RMSCalculator.dll
